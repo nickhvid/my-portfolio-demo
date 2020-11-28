@@ -1,0 +1,28 @@
+h1 {
+    margin-left: 100px;
+    font-style: italic;
+    text-decoration: underline;
+    border: 1px solid black;
+}
+
+p{
+    font-family: ubuntu;
+    border-style: double;
+    border-width: 15px;
+    border-color: red;
+    color: blue;
+    padding-left: 10px;
+    padding-top: 15px;
+    background-color: orange;
+    }
+
+    h1.testing{
+        color: red;
+    }
+
+.subtitle-text{
+    color: green;
+}
+body{
+    background-color: white;
+}

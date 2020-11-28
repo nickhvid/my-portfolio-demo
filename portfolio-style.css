@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+
+.portfolio-background{
+    background-color: green;
+    text-align: center;
+}
+
+.portfolio-card{
+    background-color: orange;
+    width: 500px;
+    margin: auto
+}
+
+h1{
+    margin-top: 0;
+}
+
+#flex-box-demo{
+    margin: 200;
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-box-inner{
+    width: 20%;
+    border: solid 5 black;
+}
